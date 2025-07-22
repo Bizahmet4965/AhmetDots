@@ -1,2 +1,186 @@
-# AhmetDots
-Hyprland and system dots files
+My Hyprland Dotfiles
+
+This repository contains my personal configuration files (dotfiles) for a sleek, efficient, and visually consistent desktop experience on Arch Linux using the Hyprland window manager.
+
+A showcase of the desktop environment, featuring a clean layout and consistent theming.
+✨ Features
+
+    Minimalist & Clean: Designed to be visually appealing without unnecessary clutter.
+
+    Efficient Workflow: Keyboard-driven workflow with intuitive keybindings powered by Hyprland.
+
+    Dynamic Theming: Uses matugen to generate a color palette from the current wallpaper for a cohesive look across applications.
+
+    Lightweight Components: Built with a focus on performance, using lightweight applications like kitty, rofi, and thunar.
+
+    Ready-to-Use: Includes configurations for essential system components like the status bar, notifications, and application launcher.
+
+🛠️ Software Requirements
+
+This setup relies on the following software. Please ensure they are installed on your system.
+
+    Window Manager: hyprland
+
+    System Utilities: kitty, thunar, rofi, wlogout, hyprlock, hypridle, swww, fastfetch
+
+    Audio & Media: pipewire, wpctl, playerctl, mpd, ncmpcpp
+
+    Theming & Visuals: matugen, gtk3, gtk4
+
+    System Control: brightnessctl
+
+    Dependencies: dotnet-8.0
+
+🚀 Installation
+
+    Clone the repository:
+
+    git clone https://github.com/your-username/your-repo-name.git
+    cd your-repo-name
+
+    Backup your existing configuration:
+    Before proceeding, make sure to back up any existing configuration files in ~/.config/.
+
+    Create symbolic links:
+    Link the configuration files from this repository to your ~/.config directory.
+
+    # Example for hyprland config
+    ln -s -f ~/your-repo-name/hypr/hyprland.conf ~/.config/hypr/hyprland.conf
+
+    # Example for kitty config
+    ln -s -f ~/your-repo-name/kitty/kitty.conf ~/.config/kitty/kitty.conf
+
+    # ... and so on for other configurations.
+
+    It's often easier to write a small installation script to automate this process.
+
+⌨️ Keybindings
+
+The workflow is centered around the Win (Super) key.
+
+<details>
+<summary><strong>Click to expand Keybindings</strong></summary>
+Basic Application and Window Management
+
+Shortcut
+	
+
+Action
+
+Win + Q
+	
+
+Open terminal (kitty)
+
+Win + C
+	
+
+Close active window
+
+Win + E
+	
+
+Open file manager (thunar)
+
+Win + R
+	
+
+Open application launcher (rofi)
+
+Win + F
+	
+
+Toggle fullscreen
+
+Win + V
+	
+
+Toggle floating mode
+System and Session Management
+
+Shortcut
+	
+
+Action
+
+Win + M
+	
+
+Exit Hyprland session
+
+Win + L
+	
+
+Show logout menu (wlogout)
+
+Win + Shift + L
+	
+
+Lock the screen (hyprlock)
+
+PrintScreen
+	
+
+Take a screenshot of a selected area
+Window Focus and Movement
+
+Shortcut
+	
+
+Action
+
+Win + Arrow Keys
+	
+
+Focus window in the specified direction
+
+Win + Shift + Arrow Keys
+	
+
+Move active window in the specified direction
+Workspaces
+
+Shortcut
+	
+
+Action
+
+Win + [1-9]
+	
+
+Switch to workspace 1-9
+
+Win + Shift + [1-9]
+	
+
+Move active window to workspace 1-9
+
+Win + Mouse Wheel
+	
+
+Cycle through workspaces
+Multimedia and Hardware Controls
+
+Shortcut
+	
+
+Action
+
+Media Keys
+	
+
+Control media playback (playerctl)
+
+Volume Keys
+	
+
+Adjust system volume (wpctl)
+
+Brightness Keys
+	
+
+Adjust screen brightness (brightnessctl)
+
+</details>
+
+Enjoy the setup!
