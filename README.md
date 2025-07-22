@@ -2,7 +2,7 @@
 
 This repository contains my personal configuration files (dotfiles) for a sleek, efficient, and visually consistent desktop experience on Arch Linux using the Hyprland window manager.
 
-![Desktop Screenshot](https://placehold.co/800x450/1a1b26/c0caf5?text=Your+Desktop+View)
+![Desktop Screenshot](<img width="2560" height="1600" alt="resim" src="https://github.com/user-attachments/assets/2bdff1ca-445c-4b56-a29f-557517806600" />)
 *A showcase of the desktop environment, featuring a clean layout and consistent theming.*
 
 ---
@@ -73,6 +73,8 @@ The workflow is centered around the `Win` (Super) key.
 | `Win + R` | Open application launcher (`rofi`) |
 | `Win + F` | Toggle fullscreen |
 | `Win + V` | Toggle floating mode |
+| `Win + K` | Shows Prayer Times as Notification 
+| `Win + CTRL + D` | Open Discord |
 
 ### System and Session Management
 
@@ -109,5 +111,6 @@ The workflow is centered around the `Win` (Super) key.
 </details>
 
 ---
+Note! Replace the files in /home/ahmet (in the files (keybindings) in /home/XXXX/.config/hypr/modules)
 
 Enjoy the setup!
