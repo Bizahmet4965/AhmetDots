@@ -2,7 +2,7 @@
 
 This repository contains my personal configuration files (dotfiles) for a sleek, efficient, and visually consistent desktop experience on Arch Linux using the Hyprland window manager.
 
-![Desktop Screenshot](<img width="2560" height="1600" alt="resim" src="https://github.com/user-attachments/assets/2bdff1ca-445c-4b56-a29f-557517806600" />)
+![Desktop Screenshot] (https://github.com/user-attachments/assets/2bdff1ca-445c-4b56-a29f-557517806600)
 *A showcase of the desktop environment, featuring a clean layout and consistent theming.*
 
 ---
