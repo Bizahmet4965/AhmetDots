@@ -1,0 +1,5 @@
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/publish/EzanVakti
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/publish/EzanVakti.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/publish/EzanVakti.deps.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/publish/EzanVakti.runtimeconfig.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/publish/EzanVakti.pdb

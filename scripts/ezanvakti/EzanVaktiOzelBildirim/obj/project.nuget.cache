@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jW04MTQ9n4s=",
+  "success": true,
+  "projectFilePath": "/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/EzanVaktiOzelBildirim.csproj",
+  "expectedPackageFiles": [
+    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.5/microsoft.aspnetcore.app.ref.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

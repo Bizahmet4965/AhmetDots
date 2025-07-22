@@ -1,0 +1,14 @@
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/bin/Debug/net9.0/EzanVaktiOzelBildirim
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/bin/Debug/net9.0/EzanVaktiOzelBildirim.deps.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/bin/Debug/net9.0/EzanVaktiOzelBildirim.runtimeconfig.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/bin/Debug/net9.0/EzanVaktiOzelBildirim.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/bin/Debug/net9.0/EzanVaktiOzelBildirim.pdb
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/EzanVaktiOzelBildirim.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/EzanVaktiOzelBildirim.AssemblyInfoInputs.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/EzanVaktiOzelBildirim.AssemblyInfo.cs
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/EzanVaktiOzelBildirim.csproj.CoreCompileInputs.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/EzanVaktiOzelBildirim.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/refint/EzanVaktiOzelBildirim.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/EzanVaktiOzelBildirim.pdb
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/EzanVaktiOzelBildirim.genruntimeconfig.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/obj/Debug/net9.0/ref/EzanVaktiOzelBildirim.dll

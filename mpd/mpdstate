@@ -1,0 +1,63 @@
+sw_volume: 98
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: play
+current: 46
+time: 48.148
+random: 1
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0
+mixrampdelay: -1
+lastloadedplaylist:  
+playlist_begin
+0: Xêro Abbas - Narê.opus
+1:Erdoğan Emir - To Şiya.opus
+2:Amour plastique.opus
+3:Koma Amed - Baranê.opus
+4:Mehmet Atlı - Pêşiya Malê.opus
+5: Xêro Abbas - Narê.opus
+6:Amour plastique.opus
+7:Erdoğan Emir - To Şiya.opus
+8:Koma Amed - Baranê.opus
+9:Mehmet Atlı - Pêşiya Malê.opus
+10:Xero Abbas - Derde Duri Ye.opus
+11:Yahya Bassal - Salawat.opus
+12: Xêro Abbas - Narê.opus
+13:Amour plastique.opus
+14:Erdoğan Emir - To Şiya.opus
+15:Koma Amed - Baranê.opus
+16:Mehmet Atlı - Pêşiya Malê.opus
+17:Xero Abbas - Derde Duri Ye.opus
+18:Yahya Bassal - Salawat.opus
+19: Xêro Abbas - Narê.opus
+20:Amour plastique.opus
+21:Erdoğan Emir - To Şiya.opus
+22:Koma Amed - Baranê.opus
+23:Mehmet Atlı - Pêşiya Malê.opus
+24:Xero Abbas - Derde Duri Ye.opus
+25:Yahya Bassal - Salawat.opus
+26: Xêro Abbas - Narê.opus
+27:Amour plastique.opus
+28:Erdoğan Emir - To Şiya.opus
+29:Koma Amed - Baranê.opus
+30:Mehmet Atlı - Pêşiya Malê.opus
+31:Xero Abbas - Derde Duri Ye.opus
+32:Yahya Bassal - Salawat.opus
+33: Xêro Abbas - Narê.opus
+34:Amour plastique.opus
+35:Erdoğan Emir - To Şiya.opus
+36:Koma Amed - Baranê.opus
+37:Mehmet Atlı - Pêşiya Malê.opus
+38:Xero Abbas - Derde Duri Ye.opus
+39:Yahya Bassal - Salawat.opus
+40:Amour plastique.opus
+41:Erdoğan Emir - To Şiya.opus
+42:Koma Amed - Baranê.opus
+43:Mehmet Atlı - Pêşiya Malê.opus
+44:Xero Abbas - Derde Duri Ye.opus
+45:Yahya Bassal - Salawat.opus
+46: CVRTOON - Şeyh Şamil (Sheikh Shamil).opus
+playlist_end

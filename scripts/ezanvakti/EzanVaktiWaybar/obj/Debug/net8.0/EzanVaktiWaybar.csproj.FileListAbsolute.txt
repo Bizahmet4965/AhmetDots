@@ -1,0 +1,14 @@
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/bin/Debug/net8.0/EzanVaktiWaybar
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/bin/Debug/net8.0/EzanVaktiWaybar.deps.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/bin/Debug/net8.0/EzanVaktiWaybar.runtimeconfig.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/bin/Debug/net8.0/EzanVaktiWaybar.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/bin/Debug/net8.0/EzanVaktiWaybar.pdb
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/EzanVaktiWaybar.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/EzanVaktiWaybar.AssemblyInfoInputs.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/EzanVaktiWaybar.AssemblyInfo.cs
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/EzanVaktiWaybar.csproj.CoreCompileInputs.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/EzanVaktiWaybar.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/refint/EzanVaktiWaybar.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/EzanVaktiWaybar.pdb
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/EzanVaktiWaybar.genruntimeconfig.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiWaybar/obj/Debug/net8.0/ref/EzanVaktiWaybar.dll

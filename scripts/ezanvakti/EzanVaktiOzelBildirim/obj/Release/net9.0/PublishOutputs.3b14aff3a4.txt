@@ -1,0 +1,5 @@
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/publish/EzanVaktiOzelBildirim
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/publish/EzanVaktiOzelBildirim.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/publish/EzanVaktiOzelBildirim.deps.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/publish/EzanVaktiOzelBildirim.runtimeconfig.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVaktiOzelBildirim/publish/EzanVaktiOzelBildirim.pdb

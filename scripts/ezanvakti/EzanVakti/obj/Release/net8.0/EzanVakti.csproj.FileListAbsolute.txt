@@ -1,0 +1,14 @@
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/bin/Release/net8.0/EzanVakti
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/bin/Release/net8.0/EzanVakti.deps.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/bin/Release/net8.0/EzanVakti.runtimeconfig.json
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/bin/Release/net8.0/EzanVakti.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/bin/Release/net8.0/EzanVakti.pdb
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/EzanVakti.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/EzanVakti.AssemblyInfoInputs.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/EzanVakti.AssemblyInfo.cs
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/EzanVakti.csproj.CoreCompileInputs.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/EzanVakti.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/refint/EzanVakti.dll
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/EzanVakti.pdb
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/EzanVakti.genruntimeconfig.cache
+/home/ahmet/.config/scripts/ezanvakti/EzanVakti/obj/Release/net8.0/ref/EzanVakti.dll
