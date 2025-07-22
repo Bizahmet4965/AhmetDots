@@ -34,8 +34,8 @@ This setup relies on the following software. Please ensure they are installed on
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/Bizahmet4965/AhmetDots.git
+    cd AhmetDots
     ```
 
 2.  **Backup your existing configuration:**
@@ -45,12 +45,12 @@ This setup relies on the following software. Please ensure they are installed on
     Link the configuration files from this repository to your `~/.config` directory.
     ```bash
     # Example for hyprland config
-    ln -s -f ~/your-repo-name/hypr/hyprland.conf ~/.config/hypr/hyprland.conf
+    ln -s -f ~/AhmetDots/Config/hypr/hyprland.conf ~/.config/hypr/hyprland.conf
 
     # Example for kitty config
-    ln -s -f ~/your-repo-name/kitty/kitty.conf ~/.config/kitty/kitty.conf
+    ln -s -f ~/AhmetDots/Config/kitty/kitty.conf ~/.config/kitty/kitty.conf
 
-    # ... and so on for other configurations.
+    like this
     ```
     *It's often easier to write a small installation script to automate this process.*
 
