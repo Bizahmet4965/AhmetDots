@@ -113,4 +113,6 @@ The workflow is centered around the `Win` (Super) key.
 ---
 Note! Replace the files in /home/ahmet (in the files (keybindings) in /home/XXXX/.config/hypr/modules)
 
+The dots I took as examples are https://github.com/Abhra00/Matuprland and https://github.com/HyDE-Project/HyDE
+
 Enjoy the setup!
